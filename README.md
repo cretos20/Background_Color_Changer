@@ -1,8 +1,41 @@
-# React + Vite
+# Background Color Changer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Overview
 
-Currently, two official plugins are available:
+The Background Color Changer is a React application that allows users to dynamically change the background color of the webpage. This simple yet interactive application demonstrates the use of React state management and event handling to provide a seamless and responsive user experience.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Demo Link
+<a href="https://drive.google.com/file/d/1jNNi3_BUIIx6jpI_CG_fyKgQ9aLhJ4x0/view?usp=sharing">Demo link</a>
+
+## Features
+
+- **Dynamic Background Color Change**: Users can choose a color from a color picker to change the background color of the webpage.
+- **Responsive UI**: Intuitive and user-friendly interface to ensure a smooth experience.
+
+## Technologies Used
+
+- **React**: For building the user interface and managing application state.
+- **CSS**: For styling the application.
+
+## Getting Started
+
+To run this project locally, follow these steps:
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/your-username/background-color-changer.git
+
+2. **Navigate to the project directory:**
+    ```bash
+    cd Background-Color-Changer
+
+3. **Install dependencies:**
+    ```bash
+    npm install
+    
+4. Start the development server:
+    ```bash
+    npm start
+
+5. This will open the application in your default web browser, typically at http://localhost:3000.
